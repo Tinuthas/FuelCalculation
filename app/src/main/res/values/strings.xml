@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FuelCalculation</string>
+    <string name="price_gasoline_liter">Price of gasoline liter</string>
+    <string name="price_liter_ethanol">Price of the liter of ethanol</string>
+    <string name="fuel_calculation">Fuel Calculation</string>
+    <string name="it_is_better_to_use">It is better to use</string>
+    <string name="oil_or_ethanol">Oil or Ethanol</string>
+    <string name="gasoline">Gasoline</string>
+    <string name="ethanol">Ethanol</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">燃料计算</string>
+    <string name="price_gasoline_liter">汽油价格升</string>
+    <string name="price_liter_ethanol">一升乙醇的价格</string>
+    <string name="fuel_calculation">燃料计算</string>
+    <string name="it_is_better_to_use">最好使用</string>
+    <string name="oil_or_ethanol">油或乙醇</string>
+    <string name="gasoline">汽油</string>
+    <string name="ethanol">乙醇</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Combustível Cálculo</string>
+    <string name="price_gasoline_liter">Preço do litro da gasolina</string>
+    <string name="price_liter_ethanol">Preço do litro do etanol</string>
+    <string name="fuel_calculation">Combustível Cálculo</string>
+    <string name="it_is_better_to_use">É melhor usar</string>
+    <string name="oil_or_ethanol">Gasolina ou Etanol</string>
+    <string name="gasoline">Gasolina</string>
+    <string name="ethanol">Etanol</string>
+</resources>
